@@ -4,6 +4,7 @@ import { Spin } from "antd";
 import React, { useState, useEffect } from "react";
 import Landing from "./components/landing/Landing";
 // import Navigation from "./components/nav/Navigation";
+import "./App.css"
 
 export default function App() {
     const [loading, setLoading] = useState(true);
