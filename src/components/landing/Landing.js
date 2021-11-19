@@ -36,7 +36,7 @@ export default function Landing() {
                         Don't find your next customer, let them find you.
                     </h2>
                     <h3 className="mailing-list">
-                        Join us now to receive updates!
+                        Join our mailing list to find out more.
                     </h3>
                     <form onSubmit={handleSubmit}>
                         <input type="email" name="email" placeholder="Email" />
